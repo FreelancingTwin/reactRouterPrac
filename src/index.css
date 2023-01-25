@@ -395,3 +395,7 @@ i {
   display: flex;
   flex-direction: column;
 }
+
+.active{
+  background: magenta;
+}
