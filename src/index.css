@@ -380,3 +380,18 @@ i {
   justify-content: center;
   width: 100%;
 }
+
+.Navbar{
+  display:flex;
+  background: tomato;
+}
+.Navbar > ul{
+  display: flex;
+  justify-content: space-evenly;
+  background: #000;
+  width: 100%;
+}
+#root{
+  display: flex;
+  flex-direction: column;
+}
